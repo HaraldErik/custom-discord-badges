@@ -1,0 +1,8 @@
+{
+    "name": "Fake Badges",
+    "description": "Equip any Discord badges on your own profile. Client-side only: only you can see them.",
+    "authors": [{ "name": "haralderik" }],
+    "main": "index.js",
+    "hash": "5f8590841f806ba6c3a6432ea1dd2b8c182e933d13a44091b7cc1814f4961ef8",
+    "vendetta": {}
+}
